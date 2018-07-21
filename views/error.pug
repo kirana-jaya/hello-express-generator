@@ -1,5 +1,6 @@
-Unstaged changes after reset:
-D	views/error.jade
-M	views/error.pug
-D	views/index.jade
-D	views/layout.jade
+extends layout
+
+block content
+  h1= message
+  h2= error.status
+  pre #{error.stack}
