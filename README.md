@@ -1,5 +1,5 @@
-# Hello Express Generator
-Learn server-side website programming with Express Js
+# Kirana Jaya Node
+Kirana Jaya website build with Node Js
 
 Resources:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/)
